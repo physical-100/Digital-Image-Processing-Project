@@ -15,9 +15,7 @@
 
 원판 무게 -> easyocr
 
-## result 
-![result](https://github.com/physical-100/Digital-Image-Processing-Project/blob/main/result.png)
-<img src="https://github.com/physical-100/Digital-Image-Processing-Project/blob/main/result.png" width="300" height="200" />
+## result
 
-<video src="https://github.com/physical-100/Digital-Image-Processing-Project/blob/main/result_video.mp4" controls="controls" style="max-width: 100%;">
-</video>
+<img src="https://github.com/physical-100/Digital-Image-Processing-Project/blob/main/result.png" width="500" height="800" />
+영상은 result.mp4로 확인할 수 있다.
