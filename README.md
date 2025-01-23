@@ -16,4 +16,4 @@
 원판 무게 -> easyocr
 
 ## result 
-![result](https://github.com/images/logo.png)
+![result](https://github.com/physical-100/Digital-Image-Processing-Project/blob/main/result.png)
