@@ -1,22 +1,19 @@
 # Digital-Image-Processing-Project
-## resource video
-<video src="test%20video/Nick.mp4" controls="controls" style="max-width: 100%;">
-</video>
+### resource video
+- test video 폴더 내의 Nick.mp4
 
-
-# preprocessing 
+### preprocessing 
 - grayscale 변경
 - Gaussian Blur 적용
 
-# Motion Detection
+### Motion Detection
 - absdiff
 - threshold
 
-# ROI Tracking
+### ROI Tracking
 - cv2 tracker 라이브러리 활용
 
 원판 무게 -> easyocr
 
-## result video
-<video src="result_video.mp4" controls="controls" style="max-width: 100%;">
-</video>
+## result 
+![result](https://github.com/images/logo.png)
