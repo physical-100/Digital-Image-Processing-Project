@@ -17,3 +17,7 @@
 
 ## result 
 ![result](https://github.com/physical-100/Digital-Image-Processing-Project/blob/main/result.png)
+<img src="https://github.com/physical-100/Digital-Image-Processing-Project/blob/main/result.png" width="300" height="200" />
+
+<video src="https://github.com/physical-100/Digital-Image-Processing-Project/blob/main/result_video.mp4" controls="controls" style="max-width: 100%;">
+</video>
